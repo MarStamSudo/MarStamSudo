@@ -1,6 +1,6 @@
 # Hello there
 
-I'm Marinos, 19 years old, starting my second year at the Department of Informatics and Telecommunications of the University of the Peloponnese. I'm also the founder of [STAMX Tech](https://www.stamx.tech).
+I'm Marinos, 19 years old, starting my second year at the Department of Informatics and Telecommunications of the University of the Peloponnese. I'm also the founder of [STAMX Tech](https://www.stamx.tech), a small technology company working on weather monitoring stations, IoT hardware and web applications.
 
 I like building hardware and software, and combining the two to see real-life results. I'm still exploring the STEM field, my abilities, and how far I can go.
 
@@ -12,6 +12,16 @@ I like building hardware and software, and combining the two to see real-life re
 - **[University announcements bot](https://github.com/MarStamSudo/university_announcements_bot)** – a small Python script that sends my department's announcements to Discord.
 
 And many more.
+
+## What I work with
+
+- **Hardware:** ESP32, Arduino, sensors
+- **Languages:** C, C++, Python, JavaScript
+- **Web:** React, Next.js, Three.js, Supabase, Vercel
+
+## A bit of background
+
+In 2024 my team and I placed at the Panhellenic FIRST LEGO League competition. That competition is what sparked my interest in making things, and it's where the inspiration for the ideas I'm working on today came from.
 
 ## Where I'm heading
 
