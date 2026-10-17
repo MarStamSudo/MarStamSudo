@@ -7,7 +7,7 @@ I like building hardware and software, and combining the two to see real-life re
 ## What I've built so far
 
 - **[YourLightAR](https://apps.shopify.com/yourlightar)** – a Shopify app that turns product photos into 3D models shoppers can view in AR. Live on the Shopify App Store.
-- **[University announcements bot](https://github.com/MarStamSudo/aegean-overwatch)** – a small Python script that sends my department's announcements to Discord.
+- **[Aegean Overwatch](https://github.com/MarStamSudo/aegean-overwatch)** – a small Python script that sends my department's announcements to Discord.
 - **[Agricultural weather station](https://github.com/MarStamSudo/Smart_AgroTech_ESP32)** – an ESP32-based station for agriculture that sends its readings in real time.
 - **[ARspace](https://github.com/MarStamSudo/ARspace)** – a no-code WebAR platform for museums. Finished.
 
